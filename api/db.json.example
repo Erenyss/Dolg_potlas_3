@@ -1,0 +1,39 @@
+{
+    "countries": [
+        {
+            "id": 1,
+            "name": "Lengyelország",
+            "capital": "Varsó",
+            "population": 36.82,
+            "area": 322575
+        },
+        {
+            "id": 2,
+            "name": "Bulgária",
+            "capital": "Szófia",
+            "population": 6.465,
+            "area": 110994
+        },
+        {
+            "id": 3,
+            "name": "Portugália",
+            "capital": "Lisszabon",
+            "population": 10.41,
+            "area": 92152
+        },
+        {
+            "id": 4,
+            "name": "Spanyolország",
+            "capital": "Madrid",
+            "population": 47.78,
+            "area": 506030
+        },
+        {
+            "id": 5,
+            "name": "Franciaország",
+            "capital": "Párizs",
+            "population": 67.97,
+            "area": 551695
+        }
+    ]
+}
